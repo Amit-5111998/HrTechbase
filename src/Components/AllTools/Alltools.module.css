@@ -1,0 +1,122 @@
+.cardheader{
+    background-color: #CCCCCC;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+.list{
+    font-size: 13px;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+.search{
+   
+    /* position: relative; */
+    padding: 10px 300px 10px 11px   
+}
+
+
+    .magnifying{
+        position: absolute;
+        margin-top: 12px;
+        margin-left: -35px;
+    }
+
+
+ 
+    .cardimage
+    {
+        height: 55px;
+    }
+    
+    .cardtitle{
+        margin-bottom: .75rem;
+        margin-top: -100px;
+        margin-left: 256px;
+        color: #2313DD;
+        text-decoration: underline;
+    }
+    .cardtext{
+        margin-top: -28px;
+    }
+    .cardtitle2{
+        margin-top: -40px;  
+    }
+    
+    .cardcount{
+        width: 135px;
+    }
+    
+    .link{
+        margin-left: 2px;
+        margin-bottom: 25px;
+       
+       color:black;
+    
+    
+    
+    }
+    
+    .btn{
+        background-color:#2313DD ;
+        width: 150px;
+        height: 52px;
+        color:white;
+        margin-top: 66px;
+    }
+    .divbtn{
+        margin-top: 61px;
+        text-align: center;
+        margin:0 auto;
+    }
+    
+
+.view{
+    margin-top: -160px;
+    margin-left: 284px;
+}
+
+.maintitle{
+    margin-top: 20px;
+    color: #000000;
+    font-size: 30px;
+    
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+.para{
+    color: #787878;
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+@media (max-width: 1399.98px) { 
+        
+.search{
+    margin-left: 0px;
+    /* position: relative; */
+    padding: 10px 300px 10px 11px  
+}
+
+ }
+
+
+ @media (max-width: 991.98px) {
+
+    .search{
+            
+ margin-left: 0px;
+ /* position: relative; */
+ padding: 5px 100px 5px 0;  
+    }
+  }
+
+  @media (max-width: 575.98px) { 
+    .magnifying{
+        position: absolute;
+        margin-top: -26px;
+        margin-left: 250px;
+    }
+  }

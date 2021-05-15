@@ -1,0 +1,170 @@
+.background{
+    background-color: #F7F7F7;
+    margin-top: 125px;
+}
+.header{
+    color: #333333;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+.subheadind{
+    color: #333333;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Poppins';
+
+    margin-left: 1px;
+}
+.savedbtn{
+    background-color: #999999;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    width: 110px;
+    height:30px;
+    border: 0;
+    color: white;
+}
+.watchlistbtn{
+    background-color: #333333;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    width: 110px;
+    height:30px;
+    border: 0;
+    color:white;
+}
+
+.txt{
+    color: #333333;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.viewbtn
+{
+    margin-right: 10px;
+ width : 65px;
+ height: 20px;
+ background-color: #999999;
+ color: white;
+ font-size:13px;
+ font-weight: 500;
+ font-size: 'Poppins';
+ border-radius: 5px;
+ border:0;
+}
+
+.mainfeed{
+        width: 100%;
+        height: 70px;
+        background-color: #EDEDED;
+        border-radius: 10px;
+        position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.mainFeedHeading{
+    padding: 20px 0;
+        margin-left: 10px;
+        font-size: 30px;
+        font-family: 'Poppins';
+}
+
+.supermain{
+    width: 100%;
+    height: 800px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: white;
+
+
+
+  
+}
+.cardfooter{
+    padding: 12px 12px 12px 12px;
+}
+
+.cardHeading{
+
+    height:50px;
+    /* padding: 10px 14px; */
+    margin-top: 10px;
+
+}
+.circle1{
+    width: 34px;
+    height: 34px;
+    border-radius: 50px;
+    background-color: #DDDDDD;
+    margin-top: -13px;
+    margin-left: -9px;
+    
+}
+
+.titlecircle{
+    margin-top: -12px;
+    margin-left: -12px;
+}
+.feedpost{
+
+     
+    /* padding: 10px 14px; */
+    margin-top: 10px;
+   
+}
+
+.position{
+    margin-top: -26px;
+    margin-left: 65px;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    color:#787878;
+
+}
+.name{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    margin-top: -50px;
+    margin-left: 65px;
+}
+
+.icons{
+    width: 600px;
+}
+
+.feedpara{
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    color:#787878;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1399.98px) { 
+    
+.icons{
+    width: 450px;
+}
+ }
+
+
+ @media (max-width: 767.98px) { 
+    .icons{
+        width: 330px;
+    }
+ }

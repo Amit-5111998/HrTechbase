@@ -1,0 +1,131 @@
+.brand {
+
+  width: 47.88px;
+  height: 47.88px;
+  margin-left:  226px;;
+  /*     */
+
+  background: #333333;
+}
+.main{
+   
+}
+
+.logoname {
+  width: 80.06px;
+  height: 63.58px;
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  
+  
+  color: #ffffff;
+}
+
+.navbar{
+    width: 100%;
+     height: 120px;
+     background-color: white;
+     box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
+.brandname{
+    position: absolute;
+    margin-top: -65px;
+    margin-left: 54px;
+}
+.hamburger{
+    float:left
+}
+.search{
+    margin-left: 200px;
+    /* position: relative; */
+    /* padding: 7px 97px 7px 0; */
+    padding: 10px 97px 10px 14px;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.15);
+    
+    
+    
+}
+.heightop{
+    margin-top: 10px;
+    background-color: white;
+}
+.heightop > li{
+    padding-left:20px;
+    padding-right:20px;
+   
+  }
+
+.navbutton{
+    background-color: #2313DD;
+    color:#ffffff
+}
+ .magnifying{
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -35px;
+    color: grey;
+}
+
+.navlink{
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 16px;
+    color: #333333;
+}
+
+.backdrop {
+    background: rgba(63, 61, 61, 0.692);
+    height: 100%;
+    position: fixed;
+    transition: all 1.3s;
+    width: 100%;
+  }
+
+  .listtext{
+      font-size: 16px;
+      font-family: 'Poppins';
+      font-weight: 600;
+  }
+
+  .sign{
+    margin-left: 15px; 
+  }
+  .logn{
+
+  }
+@media (max-width: 1399.98px) { 
+    .brand {
+        margin-left: 84px;
+    }
+    .heightop > li {
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+}
+@media (max-width: 1199.98px) {
+    .heightop > li { 
+        padding-left: 2px;
+    padding-right: 2px;
+    }
+}
+@media (max-width: 991.98px) { 
+    .heightop > li {
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    }
+ }
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .brand{
+        margin-left: 1px;
+        margin-top: 39.62px;
+
+    }
+}
+
+@media (max-width: 576px) {
+.relative{
+    display: none;
+}
+ }

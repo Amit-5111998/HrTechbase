@@ -1,0 +1,208 @@
+.explore {
+    margin-top: 120px;
+  max-width: 100%;
+  /* height: 779px; */
+  padding: 88px 0px 88px 41px;
+  background-color: #ededed;
+}
+.explore2 {
+  max-width: 100%;
+  height: 606px;
+  background-color: #ededed;
+  padding-top: 87px;
+}
+
+.R12 {
+  height: 620px;
+  width: 1500px;
+}
+
+.title {
+  font-size: 38px;
+  font-family: "Oswald";
+  text-align: center;
+  margin-top: 25px;
+}
+.title2 {
+  font-family: "Poppins";
+  color: #787878;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -393px;
+}
+.btn {
+  /* BTN */
+
+  width: 310px;
+  height: 52px;
+
+  background: #2313dd;
+  box-shadow: 0px 2px 4px rgba(35, 19, 221, 0.7);
+  border-radius: 7px;
+
+  /* Explore all the new companies ➝ */
+
+  /* width: 248px;
+height: 20px;
+left: 837px;
+top: 2890px; */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #ffffff;
+
+  margin-left: 630px;
+  margin-top: 39px;
+}
+@media (max-width: 1399.98px) { 
+    .R12{
+        height: 500px;
+        width: 1145px;
+    }
+    .btn{
+        margin-left: 448px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+  .R12 {
+    height: 480px;
+    width: 920px;
+  }
+  .btn {
+    width: 264px;
+    margin-left: 352px;
+    margin-top: 16px;
+  }
+  .title2{
+    font-size: 16px;
+    text-align: center;
+    margin-top: -344px;
+  }
+  .title{
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .R12 {
+    height: 515px;
+    width: 950px;
+  }
+  .btn {
+    width: 263px;
+    margin-left: 365px;
+    height: 44px;
+    margin-top: 20px;
+  }
+  .title {
+    font-size: 30px;
+    margin-left: 25px;
+  }
+  .title2 {
+    font-size: 18px;
+    margin-top: -364px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .R12 {
+    width: 700px;
+    height: 555px;
+  }
+  .title {
+    font-size: 20px;
+    margin-left: 25px;
+  }
+  .title2 {
+    font-size: 12px;
+    margin-top: -364px;
+  }
+  .btn {
+    width: 202px;
+    margin-left: 270px;
+    height: 33px;
+    margin-top: 20px;
+    font-size: 12px;
+  }
+  .explore{
+      height: 700px;
+  }
+  .explore2{
+    max-width: 100%;
+    height: 462px;
+    background-color: #ededed;
+    padding-top: 14px;
+  }
+}
+
+@media (max-width: 575.98px) { 
+        .R12{
+            width: 501px;
+            height: 346px;
+            display:none;
+        }
+        .explore{
+            height: 466px;
+            padding: 65px 0px 65px 41px;
+        }
+        .explore2{
+            height: 400px;
+        }
+        .btn{
+            width: 179px;
+            margin-left: 147px;
+            height: 35px;
+            margin-top: 10px;
+            font-size: 10px;
+        }
+        .title{
+            font-size: 33px;
+            margin-left: -10px;
+    margin-top: 11px;
+        }
+        .title2{
+            font-size: 22px;
+            margin-top: 20px;
+            margin-left: -22px;
+        }
+
+ }
+
+ @media (max-width: 361px) {
+
+    .R12{
+        width: 306px;
+        height: 220px;
+        display: none;
+    }
+    .explore{
+        height: 258px;
+    padding: 20px 0px 20px 20px;
+    }
+    .explore2{
+        height: 252px;
+    }
+    .btn{
+        width: 126px;
+        margin-left: 92px;
+        height: 32px;
+        margin-top: 0px;
+        font-size: 7px;
+    }
+    .title{
+        font-size: 22px;
+    margin-left: -31px;
+    margin-top: 7px;
+    }
+    .title2{
+        font-size: 13px;
+    margin-top: 70px;
+    margin-left: -33px;
+    }
+
+ }

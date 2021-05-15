@@ -1,0 +1,58 @@
+.main{
+    margin-top: 97px;
+}
+
+
+.heading{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    text-align: center;
+    
+}
+.cardimage
+{
+    height: 115px;
+}
+
+.cardtitle{
+    margin-bottom: .75rem;
+    margin-top: -105px;
+    margin-left: 267px;
+    color: #2313DD;
+    text-decoration: underline;
+}
+.cardtext{
+    margin-top: -28px;
+}
+.cardtitle2{
+    margin-top: 60px;
+}
+
+.cardcount{
+    width: 135px;
+}
+
+.link{
+    margin-left: 105px;
+    color: #2313DD  !important;
+    text-decoration: underline;
+    /* Vector */
+
+
+
+}
+
+.btn{
+    background-color:#2313DD ;
+    width: 150px;
+    height: 52px;
+    color:white;
+    margin-top: 66px;
+}
+.divbtn{
+    margin-top: 61px;
+    text-align: center;
+    margin:0 auto;
+}

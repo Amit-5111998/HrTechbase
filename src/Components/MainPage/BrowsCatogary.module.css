@@ -1,0 +1,71 @@
+.main{
+    margin-top: 97px;
+}
+
+
+.heading1{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #787878;
+    text-align: center;
+    
+}
+.heading{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    text-align: center;
+    
+}
+
+.logo
+{
+    width: 80px;
+    height: 80px;
+}
+.para{
+   font-size: 14px;
+    margin-left: 80px;
+    color: #787878;
+    font-weight: 400;
+}
+
+.card{
+    border-radius: 5px;
+    
+}
+.cardheader{
+    background-color: #DDDDDD;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Poppins';
+    color:#333333;
+
+}
+.title2{
+    font-size: 18px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    margin-top: -70px;
+    margin-left: 80px;
+}
+
+.divbtn{
+    margin-top: 61px;
+    text-align: center;
+    margin:0 auto;
+    margin-bottom: 120px;
+}
+
+.btn{
+    background-color: rgba(35, 19, 221, 1);
+    font-size: 16px;
+    width: 272px;
+    height: 52px;
+    color: white;
+    margin-top: 485px;
+    margin-right: 370px;
+    border-radius: 7px;
+}
